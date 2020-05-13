@@ -177,6 +177,20 @@ justify-content: center;
 
 }
 
+/* Hide conttent */
+
+#tab-1-content,
+
+#tab-2-content,
+
+#tab-3-content{
+display: none;
+}
+
+.show{
+  display: block !important;
+}
+
 .table{
   width: 100%;
   margin-top: 2rem;
