@@ -288,6 +288,12 @@ text-align: center;
 
 
 /* Buttons */
+
+
+.btn-icon{
+
+  margin-left: 1rem ;
+}
 .btn {
   display: inline-block;
   background: var(--primary-color);
